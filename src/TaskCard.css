@@ -1,0 +1,13 @@
+.TaskItem {
+  border: 1px solid #dfdfdf;
+  border-radius: 4px;
+  padding: 6px 8px;
+  margin-bottom: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.TaskItem:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
