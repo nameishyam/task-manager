@@ -1,5 +1,3 @@
-// import "./TaskCard.css";
-
 const TaskCard = (props) => {
   return (
     <div className="TaskItem bg-white shadow-md rounded-lg p-4">
