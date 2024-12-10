@@ -1,5 +1,3 @@
-import React from "react";
-
 const TaskCard = (props) => {
   return (
     <div className="TaskItem bg-white shadow-lg rounded-lg p-6 mb-4 transition-transform transform hover:scale-105">
